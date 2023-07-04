@@ -139,6 +139,6 @@ class Api {
   }
   }
   // Замените на адрес вашего бэкенда
-  const api = new Api('https://ap.sava-frontend.students.nomoreparties.sbs:3000');
+  const api = new Api('https://ap.sava-frontend.students.nomoreparties.sbs');
 
   export default api;
